@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class mahasiswa {
+class mahasiswa { //blue print atau cetakan
 public:
     int nim;
     string nama;
@@ -15,7 +15,7 @@ public:
 };
 
 int main() {
-    mahasiswa mhs;
+    mahasiswa mhs; //object
     mhs.nim = 2022;
     mhs.nama = "abra";
     mhs.nilai = 90.5;
