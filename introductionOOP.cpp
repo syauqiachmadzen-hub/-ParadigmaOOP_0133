@@ -17,5 +17,6 @@ public:
 int main() {
     mahasiswa mhs;
     mhs.nim = 2022;
+    mhs.nama = "abra";
     
 }
