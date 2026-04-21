@@ -14,4 +14,6 @@ public:
     )
 };
 
-int main
+int main() {
+    mahasiswa
+}
