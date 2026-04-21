@@ -15,5 +15,7 @@ public:
 };
 
 int main() {
-    mahasiswa
+    mahasiswa mhs;
+    mhs.nim = 2022;
+    
 }
