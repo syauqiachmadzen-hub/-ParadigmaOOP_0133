@@ -7,6 +7,7 @@ public:
     string nama;
     float nilai;
     
+    
     void printData(
         cout << "NIM " << endl;
         cout << "NAMA " << endl;
